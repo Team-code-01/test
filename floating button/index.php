@@ -9,9 +9,10 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css"
     />
     <link rel="stylesheet" href="css.css" />
-    <title>Fab</title>
+    <title>Floating button</title>
   </head>
   <body>
+    //brgin content
     <div class="fabs" onclick="toggleBtn()">
       <div class="action">
         <i class="fas fa-plus" id="add"></i>
@@ -27,6 +28,7 @@
       </div>
     </div>
   </body>
+  //end content
   <script>
     function toggleBtn() {
       const Btns = document.querySelector(".btns");
