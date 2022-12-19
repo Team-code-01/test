@@ -21,9 +21,7 @@
 
       <div class="btns">
        
-        <a href="whats.php" class="btnw" style="background: #25D366"
-          ><i class="fab fa-whatsapp"></i
-        ></a>
+        <a href="whats.php" class="btnw" style="background: #25D366"><i class="fab fa-whatsapp"></i></a>
         
       </div>
     </div>
